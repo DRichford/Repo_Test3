@@ -12,3 +12,5 @@ Screen shot of CFG home page to practice adding an image
 1. point one
 2. point two
 3. point three
+
+![ginger cat](https://github.com/DRichford/Repo_Test3/blob/a34a274cf3d910286b58b8dd16a860387c781346/Random_cat.png)
